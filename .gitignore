@@ -1,0 +1,27 @@
+# Ignorar la carpeta de backups
+Backup/
+
+# Ignorar la carpeta de configuración de compilación y salida de depuración
+Debug/
+
+# Ignorar la carpeta de archivos de registro de templates
+*.tlog
+
+# Ignorar la carpeta de Git
+.git/
+
+# Ignorar archivos de compilación intermedios y binarios
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+
+# Ignorar carpetas de bibliotecas externas
+freeglut/
+glew/
+
+# Ignorar otras carpetas innecesarias
+cwc/
